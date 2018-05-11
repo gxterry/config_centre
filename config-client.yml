@@ -1,4 +1,3 @@
 info:
   profile: default
-from:
-  github-default
+from: github-default
